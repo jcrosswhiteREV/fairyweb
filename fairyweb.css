@@ -1,0 +1,12 @@
+body {
+    background-color: pink;
+  }
+  
+  h1 {
+    color: purple;
+    margin-left: 20px;
+  }
+
+  table, th, td {border: 1px solid black;}
+
+  img{border-radius: 50%}
